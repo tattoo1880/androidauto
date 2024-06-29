@@ -1,0 +1,21 @@
+{
+    "platformName": "Android",
+    "appium:platformVersion": "14",
+    "appium:deviceName": "A4YQVB3223012816",
+    "appium:appPackage": "com.tencent.mm",
+    "appium:appActivity": "com.tencent.mm.ui.LauncherUI",
+    "appium:automationName": "UiAutomator2",
+    "appium:noReset": "true"
+  }
+
+
+
+  {
+    "platformName": "Android",
+    "appium:platformVersion": "14",
+    "appium:deviceName": "A4YQVB3223012816",
+    "appium:appPackage": "com.manmanbuy.bijia",
+    "appium:automationName": "UiAutomator2",
+    "appium:appActivity": "com.manmanbuy.bijia.MainActivity",
+    "appium:noReset": "true"
+  }
